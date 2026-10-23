@@ -14,15 +14,14 @@
 "PsstEnabled"=dword:00000000
 "BraveP3AEnabled"=dword:00000000
 "BraveStatsPingEnabled"=dword:00000000
+"SyncDisabled"=dword:00000001
 "MetricsReportingEnabled"=dword:00000000
 "UrlKeyedAnonymizedDataCollectionEnabled"=dword:00000000
 "DomainReliabilityAllowed"=dword:00000000
 "FeedbackSurveysEnabled"=dword:00000000
 "UserFeedbackAllowed"=dword:00000000
 "SafeBrowsingSurveysEnabled"=dword:00000000
-"SafeBrowsingExtendedReportingEnabled"=dword:00000000
 "BuiltInAIAPIsEnabled"=dword:00000000
-"GenAiDefaultSettings"=dword:00000002
 "PromotionsEnabled"=dword:00000000
 "ShoppingListEnabled"=dword:00000000
 "MediaRecommendationsEnabled"=dword:00000000
@@ -36,3 +35,6 @@
 "SpellCheckServiceEnabled"=dword:00000000
 "AlternateErrorPagesEnabled"=dword:00000000
 "PrintingEnabled"=dword:00000000
+"LaunchOnStartupEnabled"=dword:00000000
+"ExtensionReviewPromptsEnabled"=dword:00000000
+"SearchSuggestEnabled"=dword:00000000
